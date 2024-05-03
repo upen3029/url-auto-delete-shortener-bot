@@ -383,8 +383,8 @@ async def get_shortlink(link):
     if "http" == https:
         https = "https"
         link = link.replace("http", https)
-    url = f'https://GreyMattersLinks.in/api'
-    params = {'api': URL_SHORTNER_WEBSITE_API,
+    url = f'https://modijiurl.com/api'
+    params = {'api': '30574365d7ba12ab566d0bcef4fa8f64760ec730',
               'url': link,
               }
 
